@@ -1,2 +1,2 @@
 ### Hello
-In questo repository puoi trovare i codici Pytho del corso
+In questo repository puoi trovare i codici Python del corso di Astrofisica
